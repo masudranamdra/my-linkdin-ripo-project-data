@@ -1,0 +1,43 @@
+[
+    {
+        "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+        "name": "সারা খান",
+        "timestamp": "2024-01-15T10:30:00Z",
+        "text": "আজকের সূর্যাস্তটা অসাধারণ ছিল! 🌅 #প্রকৃতি #সন্ধ্যা",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+        "likes": 24,
+        "comments": ["সত্যিই অসাধারণ!", "কোথায় এই ছবি তুলেছেন?"]
+    },
+    {
+        "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+        "name": "Rahul Sharma",
+        "timestamp": "2024-01-14T15:45:00Z",
+        "text": "Check out this amazing tutorial on web development! 🚀",
+        "link": {
+            "url": "https://www.youtube.com/watch?v=example",
+            "title": "Web Development Full Course - 10 Hours",
+            "description": "Learn web development from scratch with this comprehensive tutorial.",
+            "thumbnail": "https://img.youtube.com/vi/example/0.jpg"
+        },
+        "likes": 156,
+        "comments": ["Thanks for sharing!", "Very helpful content"]
+    },
+    {
+        "profileImage": "https://randomuser.me/api/portraits/women/68.jpg",
+        "name": "Priya Das",
+        "timestamp": "2024-01-13T09:15:00Z",
+        "text": "My new kitten is so playful! 😺 #catlover",
+        "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+        "likes": 89,
+        "comments": ["So cute!", "What's its name?"]
+    },
+    {
+        "profileImage": "https://randomuser.me/api/portraits/men/75.jpg",
+        "name": "John Smith",
+        "timestamp": "2024-01-12T20:20:00Z",
+        "text": "Beautiful sunset at Cox's Bazar! 🏖️",
+        "video": "https://example.com/sunset-video.mp4",
+        "likes": 234,
+        "comments": ["বাহ! খুব সুন্দর", "I miss Cox's Bazar"]
+    }
+]
