@@ -29,6 +29,7 @@
         "text": "My new kitten is so playful! 😺 #catlover",
         "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
         "likes": 89,
+        "video": "https://example.com/sunset-video.mp4",
         "comments": ["So cute!", "What's its name?"]
     },
     {
@@ -40,4 +41,23 @@
         "likes": 234,
         "comments": ["বাহ! খুব সুন্দর", "I miss Cox's Bazar"]
     }
+    {
+        "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+        "name": "Rahul Sharma",
+        "timestamp": "2024-01-14T15:45:00Z",
+"image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+        "text": "Check out this amazing tutorial on web development! 🚀",
+        "video": "https://youtu.be/350p9S3kuI0?si=N9gTxl8ouIJ6tKOV",
+        
+        "link": {
+            "url": "https://www.youtube.com/watch?v=example",
+            "title": "Web Development Full Course - 10 Hours",
+            "description": "Learn web development from scratch with this comprehensive tutorial.",
+            "thumbnail": "https://img.youtube.com/vi/example/0.jpg"
+        },
+
+        "likes": 156,
+        "comments": ["Thanks for sharing!", "Very helpful content"]
+    },
+
 ]
